@@ -7,7 +7,7 @@ import img5 from "../assets/images/img4.png";
 export const story = [
   {
     image: img1,
-    text: "Initialisation du Simulateur de Futur...\nChargement du profil : Carlita 🐼",
+    text: "Bub disini aku mau minta maaf paling tulus\nSemoga dimaafin deh",
   },
   {
     image: img2,
