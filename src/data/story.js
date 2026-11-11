@@ -7,22 +7,21 @@ import img5 from "../assets/images/img4.png";
 export const story = [
   {
     image: img1,
-    text: "Bub disini aku mau minta maaf paling tulus\nSemoga dimaafin deh",
+    text: "Bub, there's something I really need to say...\n\nI'm truly sorry for the way I treated you today",
   },
   {
     image: img2,
-    text: "Analyse en cours...\n\nParamètres détectés :\n– Sourire déstabilisant\n– Énergie intrigante\n– Grand cœur confirmé",
+    text: "I let my mood get the best of me.\n\nI wasn't trying hard enough to understand how you felt, and I realize that my actions may have hurt you.",
   },
   {
     image: img3,
-    text: "Simulation n°1 :\nOn se fait un date la semaine prochaine.\n\nRésultat probable :\n87% rires\n10% taquineries\n3% moment où je perds mes mots",
+    text: "You didn't deserve that, bub.\n\nYou deserved patience, understanding, and someone who would listen instead of letting his emotions take over",
   },
   {
     image: img4,
-    text: "Simulation n°2 :\nOn annule.\n\nRésultat probable :\nRegret universel.\nPerte scientifique d'un excellent moment.",
+    text: "I don't want to make excuses.\n\nI know saying sorry won't undo what happened, but I genuinely regret making you feel that way",
   },
   {
     image: img5,
-    text: "Conclusion de l'algorithme :\nLe scénario 1 présente un potentiel très intéressant.\n\nRecommandation officielle :\nValidation immédiate requise.",
-  },
+    text: "I hope you know how much you mean to me, Ca.\n\nI'll try to be more understanding and careful with your feelings.\n\nI'm really sorry, sygku. Ily. ❤️"  },
 ];
