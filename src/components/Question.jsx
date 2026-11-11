@@ -24,7 +24,7 @@
 //       {/* Question Card */}
 //       <div className="bg-white/90 backdrop-blur-xl rounded-[3rem] p-14 shadow-2xl text-center max-w-xl w-full">
 //         <h2 className="text-4xl font-semibold text-gray-700 mb-6">
-//           Valide-t-on officiellement la simulation ? 😌
+//           Can you forgive me, bub? 🥺
 //         </h2>
 
 //         <div className="flex items-center justify-center gap-12 relative">
@@ -34,7 +34,7 @@
 //             onClick={onYes}
 //             className="px-12 py-4 bg-gradient-to-r from-green-400 to-emerald-500 text-white rounded-full text-2xl font-medium shadow-lg hover:scale-105 transition-all duration-300"
 //           >
-//             Oui, lançons l'expérience ❤️
+//             Dimaafin kok bub ❤️
 //           </button>
 
 //           {/* NO BUTTON */}
@@ -49,14 +49,14 @@
 //               }}
 //               className="px-12 py-4 bg-gradient-to-r from-pink-500 to-rose-500 text-white rounded-full text-2xl font-medium shadow-lg transition-all duration-300"
 //             >
-//               Refuser (déconseillé)
+//               Engga dulu deh
 //             </button>
 //           )}
 //         </div>
 
 //         {noClicks >= 4 && (
 //           <p className="mt-10 text-lg text-gray-500 italic">
-//             Analyse en cours… Refuser semble être une mauvaise décision scientifique.
+//              It's okay, bub. I'll give you the time you need. ❤️
 //           </p>
 //         )}
 //       </div>
